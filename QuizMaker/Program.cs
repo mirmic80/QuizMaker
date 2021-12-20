@@ -5,6 +5,6 @@
         static void Main(string[] arg)
         {
             UserInterface.DisplayWelcomeScreen();
-        }       
+        }  
     }
 }
